@@ -1,4 +1,9 @@
 test1
 test2
 test3
+<<<<<<< HEAD
 iss53 1
+=======
+hotfix1
+
+>>>>>>> hotfix
